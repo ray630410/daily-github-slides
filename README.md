@@ -20,4 +20,4 @@ Each release's Source code archives are added automatically by GitHub and contai
 
 | 日期 Date | 專案 Project | GitHub | YouTube | 下載 Download |
 |---|---|---|---|---|
-| 2026-11-24 | MiniMind — 自己訓練語言模型 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | — / — | [2026-11-24_MiniMind](https://github.com/ray630410/daily-github-slides/releases/tag/2026-11-24_MiniMind) |
+| 2026-11-24 | MiniMind — 自己訓練語言模型 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | [中文](https://youtu.be/vZHNE0tX1Xs) / [English](https://youtu.be/iEk9IrR8Irs) | [2026-11-24_MiniMind](https://github.com/ray630410/daily-github-slides/releases/tag/2026-11-24_MiniMind) |
