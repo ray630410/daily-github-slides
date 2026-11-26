@@ -22,3 +22,4 @@ Each release's Source code archives are added automatically by GitHub and contai
 |---|---|---|---|---|
 | 2026-11-25 | NGINX｜網站流量怎麼走？ | [nginx/nginx](https://github.com/nginx/nginx) | [中文](https://youtu.be/lsXlIzTqbmk) / [English](https://youtu.be/vnHuHLTdsog) | [2026-11-25_NGINX](https://github.com/ray630410/daily-github-slides/releases/tag/2026-11-25_NGINX) |
 | 2026-11-24 | MiniMind — 自己訓練語言模型 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | [中文](https://youtu.be/vZHNE0tX1Xs) / [English](https://youtu.be/iEk9IrR8Irs) | [2026-11-24_MiniMind](https://github.com/ray630410/daily-github-slides/releases/tag/2026-11-24_MiniMind) |
+| 2026-11-25 | OpenVINO｜模型怎麼部署？ | [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | — / — | [2026-11-25_OpenVINO](https://github.com/ray630410/daily-github-slides/releases/tag/2026-11-25_OpenVINO) |
